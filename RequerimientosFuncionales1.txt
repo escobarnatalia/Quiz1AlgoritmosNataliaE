@@ -1,0 +1,6 @@
+﻿• Requerimientos funcionales
+R1 El aplicativo debe de tener tres tipos de figuras.  Entrada:No aplica.Salida:Figuras.R2Las figuras debe de poder moverse por todo el lienzo.Entrada:FigurasMoveSalida:No aplica.R3  El aplicativo debe de poder cargar un archivo txt.Entrada:Archivo txt.Salida:No aplica.R4Las figuras deben de rebotar  en los límites del lienzo.Entrada:Figuras.Salida:FigurasMoveR5Las figuras al chocarse entre si deben de cambiar de dirección. Entrada:No aplicaSalida:No aplicaR6El usuario debe de poder dar click en las figuras. Entrada:No aplicaSalida:No aplicaR7La figura al ser tocada por el usuario debe de detenerse y no rebotar más.  Entrada:No aplicaSalida:No aplica
+• Requerimientos no funcionales
+o El aplicativo debe de ser desarrollado en lenguaje de java
+o El aplicativo debe tener un tamaño de lienzo que permita jugar correctamente.
+
